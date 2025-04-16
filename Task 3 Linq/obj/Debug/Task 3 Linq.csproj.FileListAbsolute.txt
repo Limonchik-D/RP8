@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Task 3 Linq\bin\Debug\Task 3 Linq.exe.config
+C:\Users\Limon\source\repos\Task 3 Linq\bin\Debug\Task 3 Linq.exe
+C:\Users\Limon\source\repos\Task 3 Linq\bin\Debug\Task 3 Linq.pdb
+C:\Users\Limon\source\repos\Task 3 Linq\obj\Debug\Task 3 Linq.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Task 3 Linq\obj\Debug\Task 3 Linq.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Task 3 Linq\obj\Debug\Task 3 Linq.exe
+C:\Users\Limon\source\repos\Task 3 Linq\obj\Debug\Task 3 Linq.pdb
