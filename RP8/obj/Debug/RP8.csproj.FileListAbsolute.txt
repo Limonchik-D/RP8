@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\RP8\bin\Debug\RP8.exe.config
+C:\Users\Limon\source\repos\RP8\bin\Debug\RP8.exe
+C:\Users\Limon\source\repos\RP8\bin\Debug\RP8.pdb
+C:\Users\Limon\source\repos\RP8\obj\Debug\RP8.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\RP8\obj\Debug\RP8.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\RP8\obj\Debug\RP8.exe
+C:\Users\Limon\source\repos\RP8\obj\Debug\RP8.pdb
