@@ -1,0 +1,7 @@
+C:\Users\Limon\source\repos\Task 2 Дштй\bin\Debug\Task 2 Дштй.exe.config
+C:\Users\Limon\source\repos\Task 2 Дштй\bin\Debug\Task 2 Дштй.exe
+C:\Users\Limon\source\repos\Task 2 Дштй\bin\Debug\Task 2 Дштй.pdb
+C:\Users\Limon\source\repos\Task 2 Дштй\obj\Debug\Task 2 Linq.csproj.AssemblyReference.cache
+C:\Users\Limon\source\repos\Task 2 Дштй\obj\Debug\Task 2 Linq.csproj.CoreCompileInputs.cache
+C:\Users\Limon\source\repos\Task 2 Дштй\obj\Debug\Task 2 Дштй.exe
+C:\Users\Limon\source\repos\Task 2 Дштй\obj\Debug\Task 2 Дштй.pdb
